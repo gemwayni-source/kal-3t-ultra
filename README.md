@@ -1,4 +1,4 @@
-Kal 3T Ultra
+**_Kal 3T Ultra_**
 (Indonesian)
 kal 3t ultra dibuat oleh kal dan ini repositori pertama gw di github
 ini kayak semacam app tuning gitu tenang buat para pemula ada deskripsi yang lengkap sama jelas ko.
